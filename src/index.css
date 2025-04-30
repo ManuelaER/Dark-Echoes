@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-family: 'Lucida Bright';
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'lucida Bright';
+}
+
+h3 {
+    font-family: 'Lucida sans unicode';
+}
+
+p {
+    font-family: 'Lucida sans typewriter';
+}
+
+.episodeList {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.episodeDetails {
+    margin: 20px;
+    display: inline-block;
+    background-color: rgb(250, 243, 234);
+    border: outset;
+    border-radius: 30px;
+    padding: 20px 50px;
+}
+
+.boxes {
+    background-color: rgb(250, 243, 234);
+    width: 150px;
+    height: 130px;
+    border: outset;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 10px;
+}
